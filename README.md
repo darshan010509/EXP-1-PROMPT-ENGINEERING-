@@ -1,4 +1,7 @@
 # EXP 1 :- Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+# Date: 12.08.2025
+# Reg No: 212222080013
+
 # Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ________________________________________
